@@ -1,4 +1,5 @@
 example file
 updated
 clear
+updated
 
